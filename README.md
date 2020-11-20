@@ -1,5 +1,5 @@
 # CRUD Node Express JS with MongoDb
-_(juste en dessous des badges sympatiques à placer)_
+
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
@@ -7,14 +7,11 @@ This is a simple application with which to learn the basics of ExpressJS and Man
 
 - ExpressJs is a nodejS framework that offers many advantages in terms of performance and flexibility for your applications
 - MongoDB is the most popular NoSQL database solution
-    "Contrairement aux bases de données SQL, les données d’une collection Mongo peuvent être complètement hétérogènes. C’est ce qu’on appelle le Schemaless. L’avantage de ne pas forcément avoir de structure stricte de la donnée est de pouvoir faire évoluer rapidement sa structure de donnée. Cette flexibilité est très appréciée dans les projets au stade de prototype qui découvrent encore comment leur donnée doit se structurée"
+    "Unlike SQL databases, the data in a Mongo collection can be completely heterogeneous (Schemaless). This is called the Schemaless. The advantage of not necessarily having a strict data structure is to be able to quickly change its data structure. This flexibility is greatly appreciated in projects at the prototype stage which are still discovering how their data should be structured."
     
     * [plus d'informati](https://practicalprogramming.fr/mongodb/) 
     
 
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
 
 ###prerequisite
 
@@ -34,9 +31,13 @@ Entrez ici les instructions pour bien débuter avec votre projet...
 
 
 
-## Démarrage
+## Start with this project
 
-Dites comment faire pour lancer votre projet
+$ git clone git://github.com/lutiku/Back-End-CA1.git 
+$ cd Back-End-22878-CA1
+$ npm install
+
+
 
 ## Features
 
@@ -52,28 +53,20 @@ Dites comment faire pour lancer votre projet
     - collection.delete(<id/your object>)
     
     
-##Docs & Community
+## Docs & Community
+
+####Express JS
 
 
 * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
 * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
     
-* [Practical Programming](https://practicalprogramming.fr/mongodb/)
-##
-    MongoDb
+* [Practical Programming](https://practicalprogramming.fr/express-js/)
+####MongoDb
+  
   * [Practical Programming](https://practicalprogramming.fr/mongodb/)
+  * [MongoDB CRUD operations](https://docs.mongodb.com/manual/crud/)
 
-## Fabriqué avec
-
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
-
-## Contributing
-
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
 
 ## Versions
 
@@ -83,14 +76,8 @@ npm 6.14.8
 
 ## Authors
 
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
+* **George Blanaru** _alias_ [@georgeBl](https://github.com/georgeBl)
+* **Lutiku Ndongala** _alias_ [@lutiku](https://github.com/lutiku)
 
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
-
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
-
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
 
