@@ -20,9 +20,13 @@ Ce qu'il est requis pour commencer avec votre projet...
 ### Install ExpressJS for NodeJS with npm
 
 - initialize a NodeJS project in a new folder
-![alt text](https://github.com/lutiku/Back-End-22878-CA1/blob/master/init.png?raw=true)
+
+![alt text](https://raw.githubusercontent.com/lutiku/Back-End-22878-CA1/master/init.png)
 
 - install Express JS
+
+![alt text](https://raw.githubusercontent.com/lutiku/Back-End-22878-CA1/master/installExpress.png)
+
 
 ## Démarrage
 
