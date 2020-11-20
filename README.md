@@ -42,6 +42,7 @@ $ npm install
 
 
 
+
 ## Features
 
  _This application include all CRUD operations_
@@ -57,18 +58,17 @@ $ npm install
     
     
 ## Docs & Community
-
-####Express JS
-
+#### Express JS
 
 * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
 * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
     
 * [Practical Programming](https://practicalprogramming.fr/express-js/)
-####MongoDb
-  
-  * [Practical Programming](https://practicalprogramming.fr/mongodb/)
-  * [MongoDB CRUD operations](https://docs.mongodb.com/manual/crud/)
+
+#### Express JS
+
+* [Practical Programming](https://practicalprogramming.fr/mongodb/)
+* [MongoDB CRUD operations](https://docs.mongodb.com/manual/crud/)
 
 
 ## Versions
