@@ -13,7 +13,7 @@ This is a simple application with which to learn the basics of ExpressJS and Man
     
 
 
-###prerequisite
+### Prerequisite
 
 - Basic knowledge of web development (HTML, CSS, JavaScript).
 - Knowledge of server side development principles.
@@ -65,7 +65,7 @@ $ npm install
     
 * [Practical Programming](https://practicalprogramming.fr/express-js/)
 
-#### Express JS
+#### MongoDB
 
 * [Practical Programming](https://practicalprogramming.fr/mongodb/)
 * [MongoDB CRUD operations](https://docs.mongodb.com/manual/crud/)
