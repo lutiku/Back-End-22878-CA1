@@ -32,12 +32,13 @@ This is a simple application with which to learn the basics of ExpressJS and Man
 
 
 ## Start with this project
-
+```bash
 $ git clone git://github.com/lutiku/Back-End-CA1.git
  
 $ cd Back-End-22878-CA1
 
 $ npm install
+```
 
 
 
