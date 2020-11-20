@@ -9,7 +9,7 @@ This is a simple application with which to learn the basics of ExpressJS and Man
 - MongoDB is the most popular NoSQL database solution
     "Unlike SQL databases, the data in a Mongo collection can be completely heterogeneous (Schemaless). This is called the Schemaless. The advantage of not necessarily having a strict data structure is to be able to quickly change its data structure. This flexibility is greatly appreciated in projects at the prototype stage which are still discovering how their data should be structured."
     
-    * [plus d'informati](https://practicalprogramming.fr/mongodb/) 
+
     
 
 
