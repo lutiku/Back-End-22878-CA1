@@ -54,7 +54,7 @@ Dites comment faire pour lancer votre projet
     
 ##Docs & Community
 
-    Express
+
 * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
 * [#express](https://webchat.freenode.net/?channels=express) on freenode IRC
     
